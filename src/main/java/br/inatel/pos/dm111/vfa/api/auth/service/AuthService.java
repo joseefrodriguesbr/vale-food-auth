@@ -49,6 +49,7 @@ public class AuthService {
 
             if (encryptedPwd.equals(user.password())) {
                 var token = generateToken(user);
+                log.debug("Authentication successfully performed. User Id: {}", user.id());
                 return new AuthResponse(token);
             }
         } else {
