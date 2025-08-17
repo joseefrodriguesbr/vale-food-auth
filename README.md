@@ -29,9 +29,6 @@ https://github.com/joseefrodriguesbr/vale-food-restaurant-management
         	 
 ### ⚙️ Rotas:
 
-🔐 **Rotas protegidas** (com JWT via AuthController.verificaJWT):  
-As rotas abaixo estão dentro do prefixo /estoque, e requerem autenticação JWT.  
-
 🌐 **POST /valefood/auth**  
 * **Descrição:** Gera um token a partir de e-mail e senha válidos 
 * **Body esperado(exemplo):**
