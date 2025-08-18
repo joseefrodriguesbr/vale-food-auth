@@ -13,7 +13,7 @@ jose.rodrigues@pg.inatel.br, jose.e.f.rodrigues.br@gmail.com
 ## 📌 Implementação
 Microserviço em Java/Spring Boot que implementa autenticação JWT.
 
-## 📌 Repositórios relacionados
+## 📌 Repositórios relacionados necessários para a execução
 ### vale-food-promo-management:
 https://github.com/joseefrodriguesbr/vale-food-promo-management
 
